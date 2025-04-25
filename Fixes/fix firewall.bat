@@ -1,0 +1,1 @@
+reg add hklm\system\currentcontrolset\services\mpssvc /t reg_dword /v start /d 2 /f
